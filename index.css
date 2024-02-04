@@ -1,11 +1,14 @@
 body {
-    background-image: url("https://w0.peakpx.com/wallpaper/371/740/HD-wallpaper-one-arm-push-ups-model-people-man-sexy-other.jpg");
+    background-image: url("https://media.istockphoto.com/id/465115650/photo/doing-push-ups.jpg?s=612x612&w=0&k=20&c=H_bJ1LAqBUe6NT9IV_s3rHOvPX5NAcXv9gWL0_O6X1U=");
     background-repeat: no-repeat;
-    
+    background-size: contain;
     font-family: 'Ubuntu', sans-serif;;
     font-weight: bold;
     text-align: center;
+
 }
+
+
 
 h1 {
     margin-top: 10px;
