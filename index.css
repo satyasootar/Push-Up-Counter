@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://w0.peakpx.com/wallpaper/371/740/HD-wallpaper-one-arm-push-ups-model-people-man-sexy-other.jpg");
+    background-repeat: no-repeat;
+    
+    font-family: 'Ubuntu', sans-serif;;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: crimson;
+    
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family: 'Sixtyfour', sans-serif;
+    color: red;
+    text-shadow: 1p 3p 1px black;
+    
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+}
+
+p{
+    color: yellow;
+}
+
+#increment-btn {
+    background: darkred;
+}
+#reset-btn{
+    
+    background: darkgoldenrod;
+}
+#save-btn {
+    background: darkgreen;
+}
+
