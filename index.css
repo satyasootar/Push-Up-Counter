@@ -1,7 +1,7 @@
 body {
     background-image: url("https://media.istockphoto.com/id/465115650/photo/doing-push-ups.jpg?s=612x612&w=0&k=20&c=H_bJ1LAqBUe6NT9IV_s3rHOvPX5NAcXv9gWL0_O6X1U=");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     font-family: 'Ubuntu', sans-serif;;
     font-weight: bold;
     text-align: center;
@@ -37,6 +37,17 @@ button {
     margin-bottom: 5px;
     border-radius: 5px;
     
+}
+
+#increment-btn:hover{
+    background-color: rgb(253, 7, 7);
+}
+#save-btn:hover{
+    background-color:  rgb(19, 234, 19);         
+}
+
+#reset-btn:hover{
+    background-color:rgb(255, 183, 0); ;
 }
 
 p{
